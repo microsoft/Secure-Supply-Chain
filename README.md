@@ -27,7 +27,7 @@ Today, we are working to improve trust in OSS developer ecosystem packages (NPM,
 *	Verify packages are actively maintained and follow security best practices
 
 ## Enhancing Provenance information in OSS software supply chains
-We are currently updating the provenance information on various OSS NPM repositories. For example, if package.json does not have the repository key, we are creating a pull request such that package.json has that missing information. The goal is that when the next version of the NPM package is published, it contains this information. Pull requests will be create with this account: [msftenhanceprovenance](https://github.com/msftenhanceprovenance).
+We are currently updating the provenance information on various OSS NPM repositories. For example, if package.json does not have the repository key, we are creating a pull request such that package.json has that missing information. The goal is that when the next version of the NPM package is published, it contains this information. Pull requests will be created with this account: [msftenhanceprovenance](https://github.com/msftenhanceprovenance).
 
 ## Validate our enhanced provenance data
 This is useful because it lets you tie a NPM package to a source repository after publication, which has many uses in creating a more secure ecosystem. We then use this information to do static validation for the same artifact against the sources that were published. We also verify that we can rebuild the same artifact from sources that were published, which gives us some confidence that the publication environment was not corrupt.
