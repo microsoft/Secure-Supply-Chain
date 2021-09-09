@@ -1,6 +1,6 @@
-# Improving OSS Provinance
+# Improving OSS Provenance
 
-If you're visiting here, it's probably because you received a PR from @msftenhanceprovenance! This is a project at Microsoft managed by a team working in the supply chain security space. If you'd like to learn more about what sorts of things we're working on and why, this is the spot.
+If you're visiting here, it's probably because you received a PR from [@msftenhanceprovenance](https://github.com/msftenhanceprovenance)! This is a project at Microsoft managed by a team working in the supply chain security space. If you'd like to learn more about what sorts of things we're working on and why, this is the spot.
 
 # Project!
 
