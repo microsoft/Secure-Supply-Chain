@@ -1,3 +1,7 @@
+# Improving OSS Provenance
+
+If you're visiting here, it's probably because you received a PR from [@msftenhanceprovenance](https://github.com/msftenhanceprovenance)! This is a project at Microsoft managed by a team working in the supply chain security space. If you'd like to learn more about what sorts of things we're working on and why, this is the spot.
+
 # Project!
 
 Most modern software is built on top of open source software (OSS), from web application front-ends built using react, IoT devices and libraries using OpenSSL, to entire operating systems such as Debian Linux.  These individual or community-lead projects provide amazing functional and productivity benefits, but also generate novel ways for malicious actors to attack, such as:
@@ -27,7 +31,7 @@ Today, we are working to improve trust in OSS developer ecosystem packages (NPM,
 *	Verify packages are actively maintained and follow security best practices
 
 ## Enhancing Provenance information in OSS software supply chains
-We are currently updating the provenance information on various OSS NPM repositories. For example, if package.json does not have the repository key, we are creating a pull request such that package.json has that missing information. The goal is that when the next version of the NPM package is published, it contains this information. Pull requests will be created with this account: [msftenhanceprovenance](https://github.com/msftenhanceprovenance).
+We are currently updating the provenance information on various OSS NPM repositories. For example, if package.json does not have the repository key, we are creating a pull request such that package.json has that missing information. The goal is that when the next version of the NPM package is published, it contains this information. Pull requests will be created with this account: [@msftenhanceprovenance](https://github.com/msftenhanceprovenance).
 
 ## Validate our enhanced provenance data
 This is useful because it lets you tie a NPM package to a source repository after publication, which has many uses in creating a more secure ecosystem. We then use this information to do static validation for the same artifact against the sources that were published. We also verify that we can rebuild the same artifact from sources that were published, which gives us some confidence that the publication environment was not corrupt.
