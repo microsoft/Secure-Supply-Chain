@@ -1,6 +1,6 @@
 # Improving OSS Provenance
 
-If you're visiting here, it's probably because you received a PR from [@msftenhanceprovenance](https://github.com/msftenhanceprovenance), [@Jingying Gu](https://github.com/v-gjy), [@rancyr](https://github.com/v-rr), [@Zhongpeng Zhou](https://github.com/v-zhzhou) or [@Jaydon Peng](https://github.com/v-jiepeng)! This is a project at Microsoft managed by a team working in the supply chain security space. If you'd like to learn more about what sorts of things we're working on and why, this is the spot.
+If you're visiting here, it's probably because you received a PR from [@msftenhanceprovenance](https://github.com/msftenhanceprovenance), [@v-gjy](https://github.com/v-gjy), [@v-rr](https://github.com/v-rr), [@v-zhzhou](https://github.com/v-zhzhou) or [@v-jiepeng](https://github.com/v-jiepeng)! This is a project at Microsoft managed by a team working in the supply chain security space. If you'd like to learn more about what sorts of things we're working on and why, this is the spot.
 
 # Project!
 
